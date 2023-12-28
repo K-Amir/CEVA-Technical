@@ -14,7 +14,7 @@ async function getCountUsers() {
   }
 ```
 ### Is there a problem? 
-Yes, there is, because getCountUsers() returns a promise, and not the result of the promise.
+Yes, there is, because getCountUsers() returns an object with the promise, and not the result of the promise. 
 
 
 ## Exercise 2 (1 points)
