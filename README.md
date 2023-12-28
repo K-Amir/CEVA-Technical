@@ -261,6 +261,8 @@ export class AppUserForm {
 
 
 # CSS Boostrap
+<a href="https://stackblitz.com/edit/web-platform-awrejp?file=index.html" target="_blank">Live demo</a>
+
 ## Exercise 1
 ```html
 <!DOCTYPE html>
